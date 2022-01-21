@@ -1,3 +1,6 @@
 [submodule "laravel-api"]
 	path = laravel-api
 	url = https://github.com/fjah90/laravel-api
+[submodule "react-spa"]
+	path = react-spa
+	url = https://github.com/fjah90/react-spa
