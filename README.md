@@ -10,16 +10,24 @@ Se debe poder consultar los cursos, instructores, estudiantes, y poder revisar e
 
 # Requerimientos generales: 
 
-El backend y el frontend deben ser proyectos separados. 
-El frontend debe ser responsivo, tomando en cuenta que será una aplicación para smartphones. 
-El backend debe ofrecer un API que permita utilizarse desde el frontend. 
+El backend y el frontend deben ser proyectos separados.
+
+El frontend debe ser responsivo, tomando en cuenta que será una aplicación para smartphones.
+
+El backend debe ofrecer un API que permita utilizarse desde el frontend.
+
 La información debe persistir en base de datos. 
+
 Utilizar React y PHP. 
- 
+
 # Requerimientos opcionales: 
 
-Dockerizar la aplicación. 
-Utilizar Next o Nuxt. 
-Utilizar Laravel, Spring, o Django. 
-Utilizar GraphQL. 
-Desplegar en Vercel, Heroku o similar. 
+Dockerizar la aplicación.
+
+Utilizar Next o Nuxt.
+
+Utilizar Laravel, Spring, o Django.
+
+Utilizar GraphQL.
+
+Desplegar en Vercel, Heroku o similar.
